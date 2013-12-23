@@ -1,0 +1,11 @@
+This shows a brief look at the XML and HTML possibilites in inDesign.
+
+Files:
+1563-Comment.xml
+-First attempt, xml with custom tags (and links to local image resources). Requires frames to be tagged as in picture.
+
+1563-Commen..Take2.xml
+-Second attempt, this time with html tags in xml :)
+
+1563-Comment.html
+-An attempt at html exporting :)
