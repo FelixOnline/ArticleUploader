@@ -4,7 +4,7 @@ require_once("artuploader.class.php");
 
 $xmlDoc=getXML();
 $array = json_decode(json_encode(simplexml_load_string($xmlDoc)), TRUE); //Simplest way to turn into an array :)
-var_dump($array));
+var_dump($array);
 
 
 
